@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: MacroLib
+## Notes: Gives some additional tools for making macro.
+MacroLib.lua
+MacroLibParser.lua
+MacroLib.xml
