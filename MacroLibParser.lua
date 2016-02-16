@@ -30,7 +30,6 @@ local AvailableTargets = {
 	["pl"]="player",
 	["targettarget"]="targettarget",
 	["tt"]="targettarget",
-	["pet"]="targettarget",	
 	["mot"]="mouseovertarget",	
 	["mouseovertarget"]="mouseovertarget"	
 };
