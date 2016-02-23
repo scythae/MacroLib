@@ -44,7 +44,6 @@ MacroLib_HelpInfo = {
 local SlashCmd = "/macrolib";
 
 local IsAttacking = false;
-local i;
 
 local Color = {
   ["White"] = "|cffFFFFFF",
